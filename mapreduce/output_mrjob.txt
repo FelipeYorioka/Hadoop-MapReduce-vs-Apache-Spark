@@ -1,0 +1,214 @@
+"Q1"    {"rank": 1, "chave": "BA", "valor": 5508250}
+"Q1"    {"rank": 2, "chave": "SP", "valor": 4871146}
+"Q1"    {"rank": 3, "chave": "PE", "valor": 3516526}
+"Q1"    {"rank": 4, "chave": "MG", "valor": 3298457}
+"Q1"    {"rank": 5, "chave": "CE", "valor": 3248029}
+"Q1"    {"rank": 6, "chave": "PA", "valor": 2883123}
+"Q1"    {"rank": 7, "chave": "MA", "valor": 2874483}
+"Q1"    {"rank": 8, "chave": "RJ", "valor": 2845174}
+"Q1"    {"rank": 9, "chave": "PB", "valor": 1553267}
+"Q1"    {"rank": 10, "chave": "PI", "valor": 1358505}
+"Q1"    {"rank": 11, "chave": "AL", "valor": 1223607}
+"Q1"    {"rank": 12, "chave": "AM", "valor": 1221795}
+"Q1"    {"rank": 13, "chave": "PR", "valor": 1182120}
+"Q1"    {"rank": 14, "chave": "RS", "valor": 1166852}
+"Q1"    {"rank": 15, "chave": "RN", "valor": 1086975}
+"Q1"    {"rank": 16, "chave": "GO", "valor": 925792}
+"Q1"    {"rank": 17, "chave": "SE", "valor": 857187}
+"Q1"    {"rank": 18, "chave": "ES", "valor": 597211}
+"Q1"    {"rank": 19, "chave": "MT", "valor": 490496}
+"Q1"    {"rank": 20, "chave": "SC", "valor": 401977}
+"Q1"    {"rank": 21, "chave": "MS", "valor": 394153}
+"Q1"    {"rank": 22, "chave": "TO", "valor": 358894}
+"Q1"    {"rank": 23, "chave": "AC", "valor": 271090}
+"Q1"    {"rank": 24, "chave": "DF", "valor": 256131}
+"Q1"    {"rank": 25, "chave": "RO", "valor": 248713}
+"Q1"    {"rank": 26, "chave": "AP", "valor": 228339}
+"Q1"    {"rank": 27, "chave": "RR", "valor": 155453}
+"Q2"    {"rank": 1, "chave": "SP|SAO PAULO", "valor": 1458683}
+"Q2"    {"rank": 2, "chave": "RJ|RIO DE JANEIRO", "valor": 840054}
+"Q2"    {"rank": 3, "chave": "CE|FORTALEZA", "valor": 647416}
+"Q2"    {"rank": 4, "chave": "BA|SALVADOR", "valor": 543115}
+"Q2"    {"rank": 5, "chave": "AM|MANAUS", "valor": 398569}
+"Q2"    {"rank": 6, "chave": "PA|BELEM", "valor": 349910}
+"Q2"    {"rank": 7, "chave": "PE|RECIFE", "valor": 296175}
+"Q2"    {"rank": 8, "chave": "DF|BRASILIA", "valor": 256131}
+"Q2"    {"rank": 9, "chave": "MA|SAO LUIS", "valor": 240187}
+"Q2"    {"rank": 10, "chave": "RJ|NOVA IGUACU", "valor": 229769}
+"Q2"    {"rank": 11, "chave": "MG|BELO HORIZONTE", "valor": 210790}
+"Q2"    {"rank": 12, "chave": "PE|JABOATAO DOS GUARARAPES", "valor": 198742}
+"Q2"    {"rank": 13, "chave": "PI|TERESINA", "valor": 192278}
+"Q2"    {"rank": 14, "chave": "AL|MACEIO", "valor": 188946}
+"Q2"    {"rank": 15, "chave": "RJ|SAO GONCALO", "valor": 185841}
+"Q2"    {"rank": 16, "chave": "PB|JOAO PESSOA", "valor": 182332}
+"Q2"    {"rank": 17, "chave": "RJ|DUQUE DE CAXIAS", "valor": 175730}
+"Q2"    {"rank": 18, "chave": "SP|GUARULHOS", "valor": 166456}
+"Q2"    {"rank": 19, "chave": "RS|PORTO ALEGRE", "valor": 156114}
+"Q2"    {"rank": 20, "chave": "RN|NATAL", "valor": 152057}
+"Q2"    {"rank": 21, "chave": "RJ|BELFORD ROXO", "valor": 141960}
+"Q2"    {"rank": 22, "chave": "RJ|CAMPOS DOS GOYTACAZES", "valor": 132756}
+"Q2"    {"rank": 23, "chave": "SP|CAMPINAS", "valor": 120311}
+"Q2"    {"rank": 24, "chave": "BA|FEIRA DE SANTANA", "valor": 119981}
+"Q2"    {"rank": 25, "chave": "PR|CURITIBA", "valor": 110664}
+"Q2"    {"rank": 26, "chave": "PE|OLINDA", "valor": 109115}
+"Q2"    {"rank": 27, "chave": "SE|ARACAJU", "valor": 101861}
+"Q2"    {"rank": 28, "chave": "GO|GOIANIA", "valor": 101319}
+"Q2"    {"rank": 29, "chave": "AP|MACAPA", "valor": 100984}
+"Q2"    {"rank": 30, "chave": "PA|ANANINDEUA", "valor": 100387}
+"Q2"    {"rank": 31, "chave": "CE|CAUCAIA", "valor": 100386}
+"Q2"    {"rank": 32, "chave": "PE|PETROLINA", "valor": 99857}
+"Q2"    {"rank": 33, "chave": "PA|ABAETETUBA", "valor": 99826}
+"Q2"    {"rank": 34, "chave": "MS|CAMPO GRANDE", "valor": 98884}
+"Q2"    {"rank": 35, "chave": "PE|PAULISTA", "valor": 96619}
+"Q2"    {"rank": 36, "chave": "PE|CARUARU", "valor": 94231}
+"Q2"    {"rank": 37, "chave": "PA|SANTAREM", "valor": 92255}
+"Q2"    {"rank": 38, "chave": "SP|OSASCO", "valor": 82754}
+"Q2"    {"rank": 39, "chave": "BA|CAMACARI", "valor": 81693}
+"Q2"    {"rank": 40, "chave": "SP|SAO BERNARDO DO CAMPO", "valor": 79289}
+"Q2"    {"rank": 41, "chave": "BA|JUAZEIRO", "valor": 79035}
+"Q2"    {"rank": 42, "chave": "MG|BETIM", "valor": 78853}
+"Q2"    {"rank": 43, "chave": "RO|PORTO VELHO", "valor": 78281}
+"Q2"    {"rank": 44, "chave": "MG|CONTAGEM", "valor": 76704}
+"Q2"    {"rank": 45, "chave": "AC|RIO BRANCO", "valor": 76472}
+"Q2"    {"rank": 46, "chave": "BA|VITORIA DA CONQUISTA", "valor": 76324}
+"Q2"    {"rank": 47, "chave": "PB|CAMPINA GRANDE", "valor": 75538}
+"Q2"    {"rank": 48, "chave": "ES|SERRA", "valor": 74103}
+"Q2"    {"rank": 49, "chave": "SP|SANTO ANDRE", "valor": 71874}
+"Q2"    {"rank": 50, "chave": "SP|SAO JOSE DOS CAMPOS", "valor": 71802}
+"Q3"    {"rank": 1, "chave": "BA", "valor": 1028519030.0}
+"Q3"    {"rank": 2, "chave": "SP", "valor": 846152485.0}
+"Q3"    {"rank": 3, "chave": "PE", "valor": 646839774.0}
+"Q3"    {"rank": 4, "chave": "CE", "valor": 610704668.0}
+"Q3"    {"rank": 5, "chave": "MA", "valor": 606847983.0}
+"Q3"    {"rank": 6, "chave": "MG", "valor": 599869078.0}
+"Q3"    {"rank": 7, "chave": "PA", "valor": 573700776.0}
+"Q3"    {"rank": 8, "chave": "RJ", "valor": 525969206.0}
+"Q3"    {"rank": 9, "chave": "PB", "valor": 313523806.0}
+"Q3"    {"rank": 10, "chave": "PI", "valor": 285745392.0}
+"Q3"    {"rank": 11, "chave": "AM", "valor": 277224357.0}
+"Q3"    {"rank": 12, "chave": "AL", "valor": 236708670.0}
+"Q3"    {"rank": 13, "chave": "RN", "valor": 204099273.0}
+"Q3"    {"rank": 14, "chave": "RS", "valor": 201586797.0}
+"Q3"    {"rank": 15, "chave": "PR", "valor": 195603632.0}
+"Q3"    {"rank": 16, "chave": "GO", "valor": 147524504.0}
+"Q3"    {"rank": 17, "chave": "SE", "valor": 145874975.0}
+"Q3"    {"rank": 18, "chave": "ES", "valor": 104990592.0}
+"Q3"    {"rank": 19, "chave": "MT", "valor": 83061304.0}
+"Q3"    {"rank": 20, "chave": "AC", "valor": 73144204.0}
+"Q3"    {"rank": 21, "chave": "MS", "valor": 71500592.0}
+"Q3"    {"rank": 22, "chave": "SC", "valor": 70965631.0}
+"Q3"    {"rank": 23, "chave": "TO", "valor": 67359456.0}
+"Q3"    {"rank": 24, "chave": "AP", "valor": 51881929.0}
+"Q3"    {"rank": 25, "chave": "DF", "valor": 45920967.0}
+"Q3"    {"rank": 26, "chave": "RO", "valor": 37550457.0}
+"Q3"    {"rank": 27, "chave": "RR", "valor": 33211465.0}
+"Q4"    {"rank": 1, "chave": "SP|SAO PAULO", "valor": 235963152.0}
+"Q4"    {"rank": 2, "chave": "BA|SALVADOR", "valor": 82083838.0}
+"Q4"    {"rank": 3, "chave": "SP|GUARULHOS", "valor": 26387582.0}
+"Q4"    {"rank": 4, "chave": "SP|CAMPINAS", "valor": 21844841.0}
+"Q4"    {"rank": 5, "chave": "SP|MOGI DAS CRUZES", "valor": 15531635.0}
+"Q4"    {"rank": 6, "chave": "BA|FEIRA DE SANTANA", "valor": 15522449.0}
+"Q4"    {"rank": 7, "chave": "BA|JUAZEIRO", "valor": 15255230.0}
+"Q4"    {"rank": 8, "chave": "SP|SAO JOSE DOS CAMPOS", "valor": 15130264.0}
+"Q4"    {"rank": 9, "chave": "SP|SAO BERNARDO DO CAMPO", "valor": 14900060.0}
+"Q4"    {"rank": 10, "chave": "SP|OSASCO", "valor": 14734472.0}
+"Q5"    {"rank": 1, "chave": "SP|SAO PAULO", "valor": 1458683}
+"Q5"    {"rank": 2, "chave": "RJ|RIO DE JANEIRO", "valor": 840054}
+"Q5"    {"rank": 3, "chave": "RJ|NOVA IGUACU", "valor": 229769}
+"Q5"    {"rank": 4, "chave": "MG|BELO HORIZONTE", "valor": 210790}
+"Q5"    {"rank": 5, "chave": "RJ|SAO GONCALO", "valor": 185841}
+"Q5"    {"rank": 6, "chave": "RJ|DUQUE DE CAXIAS", "valor": 175730}
+"Q5"    {"rank": 7, "chave": "SP|GUARULHOS", "valor": 166456}
+"Q5"    {"rank": 8, "chave": "RJ|BELFORD ROXO", "valor": 141960}
+"Q5"    {"rank": 9, "chave": "RJ|CAMPOS DOS GOYTACAZES", "valor": 132756}
+"Q5"    {"rank": 10, "chave": "SP|CAMPINAS", "valor": 120311}
+"Q5"    {"rank": 11, "chave": "SP|OSASCO", "valor": 82754}
+"Q5"    {"rank": 12, "chave": "SP|SAO BERNARDO DO CAMPO", "valor": 79289}
+"Q5"    {"rank": 13, "chave": "MG|BETIM", "valor": 78853}
+"Q5"    {"rank": 14, "chave": "MG|CONTAGEM", "valor": 76704}
+"Q5"    {"rank": 15, "chave": "SP|SANTO ANDRE", "valor": 71874}
+"Q5"    {"rank": 16, "chave": "SP|SAO JOSE DOS CAMPOS", "valor": 71802}
+"Q5"    {"rank": 17, "chave": "SP|MOGI DAS CRUZES", "valor": 71303}
+"Q5"    {"rank": 18, "chave": "SP|CARAPICUIBA", "valor": 71261}
+"Q5"    {"rank": 19, "chave": "RJ|SAO JOAO DE MERITI", "valor": 60852}
+"Q5"    {"rank": 20, "chave": "RJ|MAGE", "valor": 58768}
+"Q5"    {"rank": 21, "chave": "SP|ITAQUAQUECETUBA", "valor": 56677}
+"Q5"    {"rank": 22, "chave": "RJ|NITEROI", "valor": 56467}
+"Q5"    {"rank": 23, "chave": "RJ|ITABORAI", "valor": 55791}
+"Q5"    {"rank": 24, "chave": "SP|DIADEMA", "valor": 55737}
+"Q5"    {"rank": 25, "chave": "SP|SOROCABA", "valor": 54269}
+"Q5"    {"rank": 26, "chave": "MG|RIBEIRAO DAS NEVES", "valor": 53108}
+"Q5"    {"rank": 27, "chave": "MG|JUIZ DE FORA", "valor": 49419}
+"Q5"    {"rank": 28, "chave": "SP|EMBU", "valor": 48177}
+"Q5"    {"rank": 29, "chave": "MG|UBERLANDIA", "valor": 47025}
+"Q5"    {"rank": 30, "chave": "MG|MONTES CLAROS", "valor": 45441}
+"Q5"    {"rank": 31, "chave": "SP|SUZANO", "valor": 41238}
+"Q5"    {"rank": 32, "chave": "MG|SANTA LUZIA", "valor": 41036}
+"Q5"    {"rank": 33, "chave": "RJ|MESQUITA", "valor": 39463}
+"Q5"    {"rank": 34, "chave": "MG|GOVERNADOR VALADARES", "valor": 39139}
+"Q5"    {"rank": 35, "chave": "RJ|QUEIMADOS", "valor": 38782}
+"Q5"    {"rank": 36, "chave": "SP|FRANCISCO MORATO", "valor": 38684}
+"Q5"    {"rank": 37, "chave": "SP|RIBEIRAO PRETO", "valor": 38376}
+"Q5"    {"rank": 38, "chave": "RJ|PETROPOLIS", "valor": 37411}
+"Q5"    {"rank": 39, "chave": "MG|IPATINGA", "valor": 37179}
+"Q5"    {"rank": 40, "chave": "SP|ITAPEVI", "valor": 36505}
+"Q5"    {"rank": 41, "chave": "SP|SAO JOSE DO RIO PRETO", "valor": 35314}
+"Q5"    {"rank": 42, "chave": "RJ|VOLTA REDONDA", "valor": 35036}
+"Q5"    {"rank": 43, "chave": "SP|PIRACICABA", "valor": 33973}
+"Q5"    {"rank": 44, "chave": "SP|BARUERI", "valor": 33393}
+"Q5"    {"rank": 45, "chave": "RJ|JAPERI", "valor": 33367}
+"Q5"    {"rank": 46, "chave": "RJ|MACAE", "valor": 33256}
+"Q5"    {"rank": 47, "chave": "RJ|CABO FRIO", "valor": 33035}
+"Q5"    {"rank": 48, "chave": "SP|BAURU", "valor": 32987}
+"Q5"    {"rank": 49, "chave": "RJ|ANGRA DOS REIS", "valor": 32979}
+"Q5"    {"rank": 50, "chave": "SP|SAO VICENTE", "valor": 32852}
+"Q5"    {"rank": 51, "chave": "SP|LIMEIRA", "valor": 31940}
+"Q5"    {"rank": 52, "chave": "RJ|ARARUAMA", "valor": 31805}
+"Q5"    {"rank": 53, "chave": "SP|TABOAO DA SERRA", "valor": 30661}
+"Q5"    {"rank": 54, "chave": "MG|IBIRITE", "valor": 30317}
+"Q5"    {"rank": 55, "chave": "SP|GUARUJA", "valor": 30268}
+"Q5"    {"rank": 56, "chave": "SP|FERRAZ DE VASCONCELOS", "valor": 27932}
+"Q5"    {"rank": 57, "chave": "SP|SUMARE", "valor": 26829}
+"Q5"    {"rank": 58, "chave": "SP|SANTOS", "valor": 26711}
+"Q5"    {"rank": 59, "chave": "SP|HORTOLANDIA", "valor": 26625}
+"Q5"    {"rank": 60, "chave": "RJ|ITAGUAI", "valor": 26523}
+"Q5"    {"rank": 61, "chave": "RJ|NILOPOLIS", "valor": 26314}
+"Q5"    {"rank": 62, "chave": "SP|MAUA", "valor": 26289}
+"Q5"    {"rank": 63, "chave": "SP|ITANHAEM", "valor": 26174}
+"Q5"    {"rank": 64, "chave": "SP|FRANCA", "valor": 24893}
+"Q5"    {"rank": 65, "chave": "MG|JANUARIA", "valor": 24477}
+"Q5"    {"rank": 66, "chave": "RJ|SEROPEDICA", "valor": 24151}
+"Q5"    {"rank": 67, "chave": "SP|FRANCO DA ROCHA", "valor": 23843}
+"Q5"    {"rank": 68, "chave": "MG|SETE LAGOAS", "valor": 23582}
+"Q5"    {"rank": 69, "chave": "MG|TEOFILO OTONI", "valor": 23408}
+"Q5"    {"rank": 70, "chave": "RJ|BARRA MANSA", "valor": 23248}
+"Q5"    {"rank": 71, "chave": "RJ|TERESOPOLIS", "valor": 23196}
+"Q5"    {"rank": 72, "chave": "MG|SAO FRANCISCO", "valor": 23018}
+"Q5"    {"rank": 73, "chave": "MG|UBERABA", "valor": 22251}
+"Q5"    {"rank": 74, "chave": "RJ|MARICA", "valor": 22188}
+"Q5"    {"rank": 75, "chave": "SP|ITAPECERICA DA SERRA", "valor": 21803}
+"Q5"    {"rank": 76, "chave": "SP|PINDAMONHANGABA", "valor": 21532}
+"Q5"    {"rank": 77, "chave": "SP|PRAIA GRANDE", "valor": 21428}
+"Q5"    {"rank": 78, "chave": "SP|JACAREI", "valor": 21083}
+"Q5"    {"rank": 79, "chave": "SP|CUBATAO", "valor": 19710}
+"Q5"    {"rank": 80, "chave": "SP|SAO CARLOS", "valor": 19345}
+"Q5"    {"rank": 81, "chave": "SP|COTIA", "valor": 19264}
+"Q5"    {"rank": 82, "chave": "RJ|RIO DAS OSTRAS", "valor": 19233}
+"Q5"    {"rank": 83, "chave": "SP|POA", "valor": 18256}
+"Q5"    {"rank": 84, "chave": "SP|MARILIA", "valor": 18211}
+"Q5"    {"rank": 85, "chave": "RJ|NOVA FRIBURGO", "valor": 18011}
+"Q5"    {"rank": 86, "chave": "SP|CARAGUATATUBA", "valor": 17810}
+"Q5"    {"rank": 87, "chave": "SP|PRESIDENTE PRUDENTE", "valor": 17489}
+"Q5"    {"rank": 88, "chave": "MG|JAIBA", "valor": 17235}
+"Q5"    {"rank": 89, "chave": "RJ|SAO PEDRO DA ALDEIA", "valor": 17228}
+"Q5"    {"rank": 90, "chave": "SP|CAJAMAR", "valor": 17168}
+"Q5"    {"rank": 91, "chave": "MG|SABARA", "valor": 17136}
+"Q5"    {"rank": 92, "chave": "SP|TAUBATE", "valor": 17108}
+"Q5"    {"rank": 93, "chave": "MG|VESPASIANO", "valor": 16981}
+"Q5"    {"rank": 94, "chave": "MG|JANAUBA", "valor": 16941}
+"Q5"    {"rank": 95, "chave": "MG|CORONEL FABRICIANO", "valor": 16924}
+"Q5"    {"rank": 96, "chave": "SP|ITU", "valor": 16892}
+"Q5"    {"rank": 97, "chave": "SP|ITAPETININGA", "valor": 16704}
+"Q5"    {"rank": 98, "chave": "SP|UBATUBA", "valor": 16379}
+"Q5"    {"rank": 99, "chave": "RJ|SAO FRANCISCO DE ITABAPOANA", "valor": 16344}
+"Q5"    {"rank": 100, "chave": "MG|ESMERALDAS", "valor": 16242}
