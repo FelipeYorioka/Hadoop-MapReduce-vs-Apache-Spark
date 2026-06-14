@@ -271,7 +271,7 @@
 | **API utilizada** | Python + framework `mrjob` | Python + DataFrame API (PySpark) |
 | **Linhas de código** | ~110 linhas | ~90 linhas |
 | **Complexidade de implementação** | Alta — mapper, reducer e steps definidos manualmente | Baixa — operações declarativas (`groupBy`, `agg`, `orderBy`, `limit`) |
-| **Tempo — processamento principal** | ~58 minutos (Step 1: aggregation de 43M registros) | ~5 minutos (conversão CSV → Parquet Snappy) |
+| **Tempo — processamento principal** | ~30 minutos (Step 1: aggregation de 43M registros) | ~5 minutos (conversão CSV → Parquet Snappy) |
 | **Tempo — rankings/queries** | ~2 minutos (Step 2: sort e limit global) | Q1: 182s / Q2: 12s / Q3: 10s / Q4: 9s / Q5: 11s |
 | **Formato de entrada** | CSV bruto (latin-1, delimitador `;`) | CSV bruto → convertido para Parquet antes das queries |
 | **Formato intermediário** | Arquivos de shuffle gravados em disco (~10GB) | Parquet Snappy em HDFS (colunar, comprimido) |
@@ -328,7 +328,3 @@ Para Q3 e Q4, que somam `VALOR_PARCELA`, o Parquet permite que o Spark leia **ap
 O Hadoop MapReduce com MRJob demonstra de forma clara os fundamentos do processamento distribuído: o desenvolvedor deve pensar explicitamente em como decompor o problema em fases de mapeamento e redução. Esse nível de controle tem valor didático, mas impõe alta complexidade — especialmente para rankings globais que exigem múltiplos steps.
 
 O Apache Spark com PySpark abstrai essa complexidade com uma API declarativa de alto nível, beneficia-se do formato colunar Parquet para reduzir I/O e usa o Catalyst para gerar planos de execução eficientes automaticamente. O resultado prático foi uma implementação com menos linhas de código, mais legível e significativamente mais rápida nas consultas analíticas após o custo inicial de conversão para Parquet.
-
----
-
-## 5. Estrutura do Repositório
