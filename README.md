@@ -1,6 +1,6 @@
 # Relatório Técnico Comparativo
 ## Atividade Prática: Hadoop MapReduce (MRJob) vs. Apache Spark
-**PUC-SP — Faculdade de Estudos Interdisciplinares — Sistemas Distribuídos**
+**PUC-SP — Projeto Integrado: Sistemas Distribuídos**
 
 ---
 
